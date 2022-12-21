@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🌱 I’m currently learning ...
-- 
+
 <!--
 **g16rim/g16rim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
