@@ -1,16 +1,3 @@
-
-<!--
-**yoon828/yoon828** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
- 
-Here are some ideas to get you  started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
--->
 <!-- 헤더 -->
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=timeGradient&text=Welcome%20to%20KYUNGRIM's%20GitHub%20👋&animation=twinkling&fontSize=40&fontAlignY=50&fontAlign=50&height=180)
 
@@ -64,9 +51,9 @@ Hi, I am trying to become a nice developer 😎
  <a href="https://github.com/yoon828/Algorithm" > 
  
  <h2>Problem Solving 💪</h2>
-
- 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=pkl4693)](https://solved.ac/pkl4693)<br/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
+  <br/>
+  
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=pkl4693)](https://solved.ac/pkl4693/)
 
 <br/>
