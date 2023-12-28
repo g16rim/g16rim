@@ -17,13 +17,13 @@ Here are some ideas to get you  started:
 
 <!--소개-->
 
-## Introduction :raised_hands:
+<h2>Introduction 🙌</h2>
 Hi, I am trying to become a nice developer 😎
 <br/><br/>
  
  
  <!--기술스택-->
-  ## Skill :four_leaf_clover:
+  <h2>Skill 🍀</h2>
 
   <!--프론트-->
 
@@ -47,7 +47,7 @@ Hi, I am trying to become a nice developer 😎
   
  <!--공부중 -->
  
-  ## Studying :pencil2: 
+  <h2>Studying ✏️</h2>
   <div>
  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=FastAPI&logoColor=white"/>
   </div>
@@ -66,7 +66,7 @@ Hi, I am trying to become a nice developer 😎
  <!--알고리즘 -->
  <a href="https://github.com/yoon828/Algorithm" > 
  
- ## Problem Solving :muscle: 
+ <h2>Problem Solving 💪</h2>
  </a>
  
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=pkl4693)](https://solved.ac/pkl4693)<br/>
