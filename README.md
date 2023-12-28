@@ -54,11 +54,8 @@ Hi, I am trying to become a nice developer 😎
   <div>
  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
   </div>
-  <!--백-->
-  
- <!--언어 및 툴 --> 
  <div>
-<img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=Jenkins&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=Jenkins&logoColor=white"/>
  <img src="https://img.shields.io/badge/Amazon ECS-FF9900?style=flat&logo=AmazonECS&logoColor=white"/>
  </div>
  <br/>
