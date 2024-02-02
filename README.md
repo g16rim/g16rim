@@ -47,12 +47,17 @@ Hi, I am trying to become a nice developer 😎
  <br/>
   
  <!--알고리즘 -->
- <a href="https://github.com/yoon828/Algorithm" > 
+ <a href="https://github.com/g16rim/algorithm-study" > 
  
  <h2>Problem Solving 💪</h2>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
-  <br/>
+  <br/>  
   
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=pkl4693)](https://solved.ac/pkl4693/)
 
+<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/>
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=g16rim)](https://solved.ac/g16rim/)
+
 <br/>
+
