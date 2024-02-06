@@ -16,33 +16,33 @@ Hi, I am trying to become a nice developer 😎
 
   <!--백-->
   <div>
-   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=SpringBoot&logoColor=white"/>
-   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/>
-   <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=Flask&logoColor=white"/>
-   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
+   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white"/>
+   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/>
+   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=Flask&logoColor=white"/>
+   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/>
   </div>
   <!--언어 및 툴 -->
   <div>
-   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=flat&logo=AmazonEC2&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Github Actions-2088FF?style=flat&logo=GithubActions&logoColor=white"/>
+   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=for-the-badge&logo=AmazonEC2&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Github Actions-2088FF?style=for-the-badge&logo=GithubActions&logoColor=white"/>
   </div>
 <br/>
   
  <!--공부중 -->
  
   <h2>Studying ✏️</h2>
-  <div>
- <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=FastAPI&logoColor=white"/>
-  </div>
-  <div>
- <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
-  </div>
+<!--   <div> -->
+<!--  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=FastAPI&logoColor=white"/> -->
+<!--   </div> -->
+<!--   <div> -->
+<!--  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/> -->
+<!--   </div> -->
  <div>
- <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=Jenkins&logoColor=white"/>
- <img src="https://img.shields.io/badge/Amazon ECS-FF9900?style=flat&logo=AmazonECS&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Amazon ECS-FF9900?style=for-the-badge&logo=AmazonECS&logoColor=white"/>
  </div>
  <br/>
   
@@ -50,12 +50,7 @@ Hi, I am trying to become a nice developer 😎
  <a href="https://github.com/g16rim/algorithm-study" > 
  
  <h2>Problem Solving 💪</h2>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
-  <br/>  
-  
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=pkl4693)](https://solved.ac/pkl4693/)
-
-<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"/>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=g16rim)](https://solved.ac/g16rim/)
 
