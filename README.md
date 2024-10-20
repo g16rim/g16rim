@@ -28,5 +28,6 @@ Hi, I am trying to become a nice developer 😎
 <!--알고리즘 -->
 <h2>Problem Solving 💪</h2>
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"/>
-[Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=g16rim)](https://solved.ac/g16rim/)
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=g16rim)](https://solved.ac/g16rim/)
 <br/>
