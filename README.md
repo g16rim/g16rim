@@ -3,9 +3,10 @@
 
 <!--소개-->
 <h2>Introduction 🙌</h2>
-Hi, I am trying to become a nice developer 😎
+안녕하세요 😎
 <br/><br/>
 
+<!--
 <h2>Skill 🍀</h2>
 <div>
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white"/>
@@ -24,6 +25,7 @@ Hi, I am trying to become a nice developer 😎
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white"/>
 </div>
 <br/>
+-->
   
 <!--알고리즘 -->
 <h2>Problem Solving 💪</h2>
